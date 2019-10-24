@@ -51,9 +51,12 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files
+# Data
 *.csv
 *.tfrecord
+
+# Model output
+output/
 
 # ide
 .idea
