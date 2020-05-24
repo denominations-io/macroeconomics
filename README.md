@@ -1,2 +1,2 @@
 # macroeconomics
-Macroeconomics research and models
+Macroeconomic research and models
